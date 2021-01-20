@@ -8,4 +8,4 @@ Welcome to Web and Mobile Programming
 
 **Wiki Links for Web ICPs**
 
-ICP1: 
+ICP1: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP1
