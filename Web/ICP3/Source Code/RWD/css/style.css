@@ -53,12 +53,14 @@
 
 .topheading{
     float: right;
-    font-family: candara;
+    font-family: Lato-Regular;
+    src: url(/Lato/Lato-Regular.ttf);
     color: white;
 }
 .header3{
     font-size: 13px;
-    font-family: candara;
+    font-family: Lato-Regular;
+    src: url(/Lato/Lato-Regular.ttf);
     color: white;
 }
 .header2{
@@ -68,7 +70,7 @@
 }
 .mainbody
 {
-    background: url(../SampleImages/bg.jpg)
+    background: url(../SampleImages/bg.jpg);
 }
 .square {
     height: 50px;
