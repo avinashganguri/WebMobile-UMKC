@@ -54,13 +54,12 @@
 .topheading{
     float: right;
     font-family: Lato-Regular;
-    src: url(/Lato/Lato-Regular.ttf);
+    font-family: 'Lato', sans-serif;
     color: white;
 }
 .header3{
     font-size: 13px;
-    font-family: Lato-Regular;
-    src: url(/Lato/Lato-Regular.ttf);
+    font-family: 'Lato', sans-serif;
     color: white;
 }
 .header2{
