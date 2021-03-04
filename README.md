@@ -20,4 +20,5 @@ ICP5: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP5
 
 ICP6: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP6
 
+ICP7: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP7
 
