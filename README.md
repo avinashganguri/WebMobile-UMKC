@@ -18,3 +18,6 @@ ICP4: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP4
 
 ICP5: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP5
 
+ICP6: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP6
+
+
