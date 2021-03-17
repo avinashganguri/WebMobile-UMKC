@@ -22,3 +22,8 @@ ICP6: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP6
 
 ICP7: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Web_ICP7
 
+
+**Wiki Links for Mobile ICPs**
+
+ICP8: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Mobile_ICP8
+
