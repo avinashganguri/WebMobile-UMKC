@@ -32,3 +32,5 @@ ICP9: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Mobile_ICP9
 ICP10: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Mobile_ICP10
 
 ICP11: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Mobile_ICP11
+
+ICP12: https://github.com/avinashganguri/WebMobile-UMKC/wiki/Mobile_ICP12
